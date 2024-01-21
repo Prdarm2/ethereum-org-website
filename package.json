@@ -71,7 +71,7 @@
     "react-instantsearch-dom": "^6.32.0",
     "react-lite-youtube-embed": "^2.4.0",
     "react-select": "^4.3.0",
-    "recharts": "^2.1.9",
+    "recharts": "^2.10.3",
     "styled-system": "^5.1.5",
     "unist-util-visit-parents": "^2.1.2"
   },
